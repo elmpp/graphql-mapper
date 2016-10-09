@@ -1,5 +1,5 @@
 {
-    "name": "arthem/graphql-mapper",
+    "name": "elmpp/graphql-mapper",
     "description": "A GraphQL model mapper",
     "type": "library",
     "license": "MIT",
